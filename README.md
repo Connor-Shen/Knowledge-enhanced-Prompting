@@ -19,3 +19,8 @@ We proposed a depression knowledge-driven prompt engineering approach named "KeP
 
 ### What we do?
 ![image](https://github.com/Connor-Shen/Knowledge-enhanced-Prompting/blob/main/img/Know_knows.png)
+
+<div style="display:inline-block">
+  <img src="https://github.com/Connor-Shen/Knowledge-enhanced-Prompting/blob/main/img/LLM_knowledge.png" alt="image1" width="500">
+  <img src="https://github.com/Connor-Shen/Knowledge-enhanced-Prompting/blob/main/img/Know_knows.png" alt="image2" width="500">
+</div>
