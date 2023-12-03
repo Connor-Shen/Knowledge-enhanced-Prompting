@@ -15,6 +15,6 @@ We proposed a depression knowledge-driven prompt engineering approach named "KeP
 
 ## LLM knowledge-task pairs
 ### What do LLMs know?
-![image](https://github.com/Connor-Shen/Knowledge-enhanced-Prompting/blob/main/img/LLM_knowledge.png)
+<img src="https://github.com/Connor-Shen/Knowledge-enhanced-Prompting/blob/main/img/LLM_knowledge.png" width="100px">
 ### What we do?
 ![image](https://github.com/Connor-Shen/Knowledge-enhanced-Prompting/blob/main/img/Know_knows.png)
