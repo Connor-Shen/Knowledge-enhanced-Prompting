@@ -16,11 +16,15 @@ We proposed a depression knowledge-driven prompt engineering approach named "KeP
 ## LLM knowledge-task pairs
 ### What do LLMs know?
 <img src="https://github.com/Connor-Shen/Knowledge-enhanced-Prompting/blob/main/img/LLM_knowledge.png" width="500px">
+• “Known-Knowns” indicates knowledge and information that LLMs are aware of and can utilize in tasks.
+• “Known-Unknowns” denotes the boundaries of LLMs’ existing knowledge.
+• LLMs are aware that there are gaps in their knowledge.
+• “Unknown-Knowns” represents that LLMs have untapped knowledge that is not properly applied to solve domain tasks.
+• “Unknown-Unknowns” indicates knowledge that LLMs do not even know they should be considering, which remains beyond the purview of LLMs’ training data.
 
 ### What we do?
 ![image](https://github.com/Connor-Shen/Knowledge-enhanced-Prompting/blob/main/img/Know_knows.png)
+• Use Expert knowledge injection to empower LLM with domain knowledge
+• Use Prompt optimization to match the distance between knowledge and downstream tasks
 
-<div style="display:inline-block">
-  <img src="https://github.com/Connor-Shen/Knowledge-enhanced-Prompting/blob/main/img/LLM_knowledge.png" alt="image1" width="500">
-  <img src="https://github.com/Connor-Shen/Knowledge-enhanced-Prompting/blob/main/img/Know_knows.png" alt="image2" width="500">
-</div>
+
