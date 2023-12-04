@@ -18,9 +18,7 @@ We proposed a depression knowledge-driven prompt engineering approach named "KeP
 <img src="https://github.com/Connor-Shen/Knowledge-enhanced-Prompting/blob/main/img/LLM_knowledge.png" width="500px">
 • “Known-Knowns” indicates knowledge and information that LLMs are aware of and can utilize in tasks.
 
-• “Known-Unknowns” denotes the boundaries of LLMs’ existing knowledge.
-
-• LLMs are aware that there are gaps in their knowledge.
+• “Known-Unknowns” denotes the boundaries of LLMs’ existing knowledge (LLMs are aware that there are gaps in their knowledge)
 
 • “Unknown-Knowns” represents that LLMs have untapped knowledge that is not properly applied to solve domain tasks.
 
